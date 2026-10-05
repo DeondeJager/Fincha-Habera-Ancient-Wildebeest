@@ -1,0 +1,34 @@
+# table produced by mapDamage version 2.2.1
+# using mapped file /projects/mjolnir1/people/pzx702/wildebeest/paleomix/competitive_mapping/SRR27955277/BWD_HiC/SRR27955277_trim_Mut.BWD_HiC-Human.bam and /projects/mjolnir1/people/pzx702/wildebeest/refgenomes/BWD_HiC.chr_Human_fossilMito.fasta as reference file
+# Quality filtering of bases with a Phred score < 20
+# Std: strand of reads
+Std	Length	Occurences 
++	41	182187
++	40	71335853
++	38	59813
++	39	201937
++	42	53077
++	37	18139
++	28	1
++	43	15758
++	36	32
++	30	4
++	35	17
++	32	8
++	33	10
++	34	13
++	31	7
+-	40	71318608
+-	39	202207
+-	38	59419
+-	41	182710
+-	42	53365
+-	37	18240
+-	43	15582
+-	33	10
+-	36	37
+-	34	18
+-	35	19
+-	30	6
+-	31	3
+-	32	1

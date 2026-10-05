@@ -48,7 +48,7 @@ ggplot(iso_Alc, aes(delta13C_corrected, Taxon_group)) +
                    labels = c("East African root-rat\n(Karungu, Kenya)", "Giant root-rat\n(Fincha Habera)", "Cephalophinae\n(Browsers)", "Alcelaphinae\n(Grazers)", "Fossil936\n(Fincha Habera)"),
                    name = NULL) +
   geom_jitter(aes(fill = Elevation_m_DEM), shape = 21, size = 3, alpha = 0.65) +
-  scale_fill_viridis_c(option = "C", direction = 1, name = "Elevation\n(m)") +
+  scale_fill_viridis_c(option = "C", direction = 1, name = "Elevation\n(masl)") +
   theme_pubr(base_size = 16) +
   #scale_x_continuous(breaks = waiver(), n.breaks = 8) +
   xlab(paste0("\u03b4", "<sup>13</sup>C")) +

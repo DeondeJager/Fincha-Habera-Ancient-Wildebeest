@@ -1,0 +1,30 @@
+Locality,Species,Ecotype,Subspecies,Subspecies_common,Country,Locality_old,Latitude,Longitude,Elevation,Sample_size
+FinchaHabera,Connochaetes sp 936,Bale_wildebeest,Fossil,Bale wildebeest,Ethiopia,Ethiopia_Fincha Habera,7.015,39.72,3468,1
+Nairobi,Connochaetes taurinus,E_Nairobi,C. t. albojubatus,Eastern white-bearded,Kenya,Kenya_Nairobi,-1.2864,36.8172,1665,10
+MasaiMara,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Kenya,Kenya_Masai Mara,-1.368468,35.156177,1546,10
+Loliondo,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Tanzania,Tanzania_Loliondo,-2.05,35.616667,2183,9
+Amboseli,Connochaetes taurinus,E_Amboseli,C. t. albojubatus,Eastern white-bearded,Kenya,Kenya_Amboseli,-2.633333,37.233333,1130,9
+Maswa1,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Tanzania,Tanzania_Maswa,-3.150139789,33.70468568,1298,8
+Burko,Connochaetes taurinus,E_Monduli,C. t. albojubatus,Eastern white-bearded,Tanzania,Tanzania_Burko,-3.31667,36.21667,1761,11
+Maswa2,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Tanzania,Tanzania_Maswa (Kimali),-3.3884644,34.4579084,1351,1
+Selous1,Connochaetes taurinus,Nyassa,C. t. johnstoni,Nyassa,Tanzania,Tanzania_Selous LA1,-7.835478,37.7667459,164,1
+Selous2,Connochaetes taurinus,Nyassa,C. t. johnstoni,Nyassa,Tanzania,Tanzania_Selous,-9,37.4,350,5
+Luangwa2,Connochaetes taurinus,Cookson,C. t. cooksoni,Cookson,Zambia,Zambia_Luangwa N.,-11.916667,32.166667,654,2
+Luangwa1,Connochaetes taurinus,Cookson,C. t. cooksoni,Cookson,Zambia,Zambia_Luangwa-Lu.Mu.,-12.4952737,32.182376,559,1
+Kafue2,Connochaetes taurinus,B_Kafue,C. t. taurinus,Brindled,Zambia,Zambia_Kafue-Biuu/Nkala,-15.7816253,26.1169097,985,1
+Kafue1,Connochaetes taurinus,B_Kafue,C. t. taurinus,Brindled,Zambia,Zambia_Kafue-Molubesi,-15.9800879,25.8987902,1050,3
+Zimbabwe,Connochaetes taurinus,B_Zimbabwe,C. t. taurinus,Brindled,Zimbabwe,Zimbabwe,-19,27,1031,6
+Etosha,Connochaetes taurinus,B_Etosha,C. t. taurinus,Brindled,Namibia,Namibia_Etos. (Halali),-19.0378189,16.4714668,1113,6
+Okavango4,Connochaetes taurinus,B_Okavango,C. t. taurinus,Brindled,Botswana,Botswana_Okav. (Kwai),-19.166,23.75,941,3
+Okavango3,Connochaetes taurinus,B_Okavango,C. t. taurinus,Brindled,Botswana,Botswana_Okav. (Xakanaxa),-19.1828727,23.4119027,955,2
+Okavango2,Connochaetes taurinus,B_Okavango,C. t. taurinus,Brindled,Botswana,Botswana_Okavango NG,-19.283333,22.9,965,1
+Okavango1,Connochaetes taurinus,B_Okavango,C. t. taurinus,Brindled,Botswana,Botswana_Okavango south,-19.8,22.9,952,3
+Ovita1,Connochaetes gnou,Black,,Black,Namibia,Namibia,-21.5710925,16.5642843,1519,12
+Ovita2,Connochaetes taurinus,B_Ovita,C. t. taurinus,Brindled,Namibia,Namibia_Ovita Ranch,-21.5710925,16.5642843,1519,9
+CKGR,Connochaetes taurinus,B_Kalahari,C. t. taurinus,Brindled,Botswana,Botswana_CKGR,-22.3525958,23.8622897,986,9
+Namibia,Connochaetes gnou,Black,,Black,Namibia,Namibia,-23,17,1862,2
+Karoemakatiti,Connochaetes taurinus,B_Kalahari,C. t. taurinus,Brindled,South Africa,South Africa_Karoemakatiti,-26,20.3,952,1
+SouthAfrica4,Connochaetes gnou,Black,,Black,South Africa,South Africa,-26,30,1628,1
+SouthAfrica2,Connochaetes gnou,Black,,Black,South Africa,South Africa,-27,26,1453,1
+SouthAfrica3,Connochaetes gnou,Black,,Black,South Africa,South Africa,-27.9670218,29.1337208,1776,1
+SouthAfrica1,Connochaetes gnou,Black,,Black,South Africa,South Africa,-29,24,1038,3

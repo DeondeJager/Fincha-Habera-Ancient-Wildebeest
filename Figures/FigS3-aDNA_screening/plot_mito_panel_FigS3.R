@@ -1,7 +1,8 @@
 # Plot screening data mapped to mito_panel for species ID
+## Produces fig. S3
 
 # Set working directory
-#setwd("")
+setwd("./")
 
 ## Load packages
 library(tidyverse)
@@ -12,7 +13,7 @@ library(ggh4x) # to duplicate discrete axis in ggplot (currently only natively a
 library(grid)
 
 # Import data
-screening <- read_csv("FinchaHabera_mito_panel_summary_long_TableSI.csv", col_names = T)
+screening <- read_csv("FinchaHabera_mito_panel_summary_long_TableS5.csv", col_names = T)
 
 # Create plotting order (Bovidae ordered according to Bibi 2013 tree from top to bottom, then the rest with approx. increasing distance from Bovidae)
 screening$reference <- factor(screening$reference, levels = c(NA, "ElandCommon", "KuduGreater", "KuduLesser", "NyalaMountain", "BuffaloCape", "Impala", "RoanAntelope",
@@ -32,8 +33,6 @@ ggplot(filter(screening, variable == "hits_unique")) +
   geom_col(aes(x = reference, y = value, fill = Family)) +
   geom_text(aes(x = reference, y = value, label = value), size = 2.5, hjust = -0.2, angle = 90) +
   labs(x = "Reference mitogenome", y = "No. of unique reads mapped") +
-  #  geom_vline(xintercept = 9.5, linetype = "dashed") +
-  #  geom_vline(xintercept = 7.5, linetype = "dashed") +
   coord_cartesian(clip = "off") +
   facet_wrap(~SampleID + CGG, scales = "free_y", ncol = 2, nrow = 5) +
   theme_minimal(base_size = 12) +
@@ -42,19 +41,5 @@ ggplot(filter(screening, variable == "hits_unique")) +
         axis.text.x = element_text(size = 6)) +
   guides(fill = guide_legend(nrow = 2)) +
   scale_x_discrete(guide = guide_axis(angle = 45))
-  ggtheme_classic2()
-ggsave("panel_FigSI.png", width = 205, height = 292, units = "mm", dpi = 300)
-ggsave("panel_FigSI.pdf", width = 205, height = 292, units = "mm")
-
-### Fossil936 only
-ggplot(filter(screening, variable == "hits_unique", SampleID == "Fossil936")) +
-  geom_col(aes(x = reference, y = value, fill = Family)) +
-  scale_fill_discrete(guide = guide_legend(reverse = TRUE)) +
-  #geom_text(aes(x = reference, y = value+150, label = value), size = 5) +
-  labs(x = "Reference mitogenome", y = "No. of unique reads mapped") +
-  theme_minimal(base_size = 14) +
-  scale_y_continuous(limits = c(0, 3000),
-                     labels = scales::label_comma()) +
-  coord_flip()
-ggsave("Fossil936.png", width = 7.5, height = 5, units = "in", dpi = 300)
-ggsave("Fossil936.pdf", width = 7.5, height = 5, units = "in")
+ggsave("panel_FigS5.png", width = 205, height = 292, units = "mm", dpi = 300)
+ggsave("panel_FigS5.pdf", width = 205, height = 292, units = "mm")
