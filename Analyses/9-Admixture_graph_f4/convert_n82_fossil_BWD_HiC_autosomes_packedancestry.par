@@ -1,0 +1,9 @@
+genotypename:   n82_fossil_BWD_HiC_autosomes.bed
+snpname:        n82_fossil_BWD_HiC_autosomes.bim
+indivname:      n82_fossil_BWD_HiC_autosomes.fam
+outputformat:   PACKEDANCESTRYMAP
+genotypeoutname:        n82_fossil_BWD_HiC_autosomes.packedancestrymap.geno
+snpoutname:     n82_fossil_BWD_HiC_autosomes.packedancestrymap.snp
+indivoutname:   n82_fossil_BWD_HiC_autosomes.packedancestrymap.ind
+familynames:    YES
+numchrom:	28
