@@ -1,0 +1,87 @@
+HiC_scaffold_3	blastx	protein_match	119813025	119813495	431	-	.	ID=HiC_scaffold_3:hit:706:3.10.0.1198;Name=sp|P63278|AMELX_RAT;target_length=210
+HiC_scaffold_3	blastx	match_part	119813025	119813495	431	-	.	ID=HiC_scaffold_3:hsp:3169:3.10.0.1198;Parent=HiC_scaffold_3:hit:706:3.10.0.1198;Target=sp|P63278|AMELX_RAT 64 209;Gap=M75 I4 M14 D15 M53
+HiC_scaffold_3	blastx	protein_match	119813025	119813507	433	-	.	ID=HiC_scaffold_3:hit:707:3.10.0.1198;Name=sp|P02817|AMELX_BOVIN;target_length=213
+HiC_scaffold_3	blastx	match_part	119813025	119813507	433	-	.	ID=HiC_scaffold_3:hsp:3170:3.10.0.1198;Parent=HiC_scaffold_3:hit:707:3.10.0.1198;Target=sp|P02817|AMELX_BOVIN 46 212;Gap=M88 I6 M73
+HiC_scaffold_3	blastx	protein_match	119813025	119813495	404	-	.	ID=HiC_scaffold_3:hit:708:3.10.0.1198;Name=sp|Q9Z0K9|AMEL_CAVPO;target_length=226
+HiC_scaffold_3	blastx	match_part	119813025	119813495	404	-	.	ID=HiC_scaffold_3:hsp:3171:3.10.0.1198;Parent=HiC_scaffold_3:hit:708:3.10.0.1198;Target=sp|Q9Z0K9|AMEL_CAVPO 64 225;Gap=M30 I1 M50 D4 M26 I8 M47
+HiC_scaffold_3	blastx	protein_match	119813025	119813507	400	-	.	ID=HiC_scaffold_3:hit:709:3.10.0.1198;Name=sp|P45561|AMEL_PIG;target_length=189
+HiC_scaffold_3	blastx	match_part	119813025	119813507	400	-	.	ID=HiC_scaffold_3:hsp:3172:3.10.0.1198;Parent=HiC_scaffold_3:hit:709:3.10.0.1198;Target=sp|P45561|AMEL_PIG 46 188;Gap=M102 D15 M21 D3 M20
+HiC_scaffold_3	blastx	protein_match	119813025	119813495	375	-	.	ID=HiC_scaffold_3:hit:711:3.10.0.1198;Name=sp|Q99004|AMELY_BOVIN;target_length=192
+HiC_scaffold_3	blastx	match_part	119813025	119813495	375	-	.	ID=HiC_scaffold_3:hsp:3174:3.10.0.1198;Parent=HiC_scaffold_3:hit:711:3.10.0.1198;Target=sp|Q99004|AMELY_BOVIN 50 191;Gap=M83 D15 M59
+HiC_scaffold_3	blastx	protein_match	119813271	119813495	315	-	.	ID=HiC_scaffold_3:hit:715:3.10.0.1198;Name=sp|Q99218|AMELY_HUMAN;target_length=206
+HiC_scaffold_3	blastx	match_part	119813271	119813495	315	-	.	ID=HiC_scaffold_3:hsp:3178:3.10.0.1198;Parent=HiC_scaffold_3:hit:715:3.10.0.1198;Target=sp|Q99218|AMELY_HUMAN 64 138;Gap=M75
+HiC_scaffold_3	blastx	protein_match	119813283	119813510	207	-	.	ID=HiC_scaffold_3:hit:717:3.10.0.1198;Name=sp|Q28462|AMEL_MONDO;target_length=202
+HiC_scaffold_3	blastx	match_part	119813283	119813510	207	-	.	ID=HiC_scaffold_3:hsp:3180:3.10.0.1198;Parent=HiC_scaffold_3:hit:717:3.10.0.1198;Target=sp|Q28462|AMEL_MONDO 29 104;Gap=M76
+HiC_scaffold_3	blastx	protein_match	119813283	119813459	123	-	.	ID=HiC_scaffold_3:hit:719:3.10.0.1198;Name=sp|O97646|AMEL_ORNAN;target_length=121
+HiC_scaffold_3	blastx	match_part	119813283	119813459	123	-	.	ID=HiC_scaffold_3:hsp:3182:3.10.0.1198;Parent=HiC_scaffold_3:hit:719:3.10.0.1198;Target=sp|O97646|AMEL_ORNAN 1 59;Gap=M59
+HiC_scaffold_3	blastx	protein_match	119813283	119813495	315	-	.	ID=HiC_scaffold_3:hit:721:3.10.0.1198;Name=sp|Q99217|AMELX_HUMAN;target_length=191
+HiC_scaffold_3	blastx	match_part	119813283	119813495	315	-	.	ID=HiC_scaffold_3:hsp:3184:3.10.0.1198;Parent=HiC_scaffold_3:hit:721:3.10.0.1198;Target=sp|Q99217|AMELX_HUMAN 49 119;Gap=M71
+HiC_scaffold_3	protein2genome	protein_match	119813025	119815257	742	-	.	ID=HiC_scaffold_3:hit:734:3.10.0.1198;Name=sp|P63278|AMELX_RAT;target_length=210;aligned_coverage=95.24;aligned_identity=73.6
+HiC_scaffold_3	protein2genome	match_part	119815183	119815257	742	-	.	ID=HiC_scaffold_3:hsp:3232:3.10.0.1198;Parent=HiC_scaffold_3:hit:734:3.10.0.1198;Target=sp|P63278|AMELX_RAT 10 34;Gap=M25
+HiC_scaffold_3	protein2genome	match_part	119813773	119813859	742	-	.	ID=HiC_scaffold_3:hsp:3233:3.10.0.1198;Parent=HiC_scaffold_3:hit:734:3.10.0.1198;Target=sp|P63278|AMELX_RAT 35 63;Gap=M29
+HiC_scaffold_3	protein2genome	match_part	119813238	119813495	742	-	.	ID=HiC_scaffold_3:hsp:3234:3.10.0.1198;Parent=HiC_scaffold_3:hit:734:3.10.0.1198;Target=sp|P63278|AMELX_RAT 64 148;Gap=M5 D1 M80
+HiC_scaffold_3	protein2genome	match_part	119813025	119813207	742	-	.	ID=HiC_scaffold_3:hsp:3235:3.10.0.1198;Parent=HiC_scaffold_3:hit:734:3.10.0.1198;Target=sp|P63278|AMELX_RAT 149 209;Gap=M61
+HiC_scaffold_3	protein2genome	protein_match	119813025	119815257	980	-	.	ID=HiC_scaffold_3:hit:735:3.10.0.1198;Name=sp|P02817|AMELX_BOVIN;target_length=213;aligned_coverage=95.31;aligned_identity=93.6
+HiC_scaffold_3	protein2genome	match_part	119815183	119815257	980	-	.	ID=HiC_scaffold_3:hsp:3236:3.10.0.1198;Parent=HiC_scaffold_3:hit:735:3.10.0.1198;Target=sp|P02817|AMELX_BOVIN 10 34;Gap=M25
+HiC_scaffold_3	protein2genome	match_part	119813773	119813817	980	-	.	ID=HiC_scaffold_3:hsp:3237:3.10.0.1198;Parent=HiC_scaffold_3:hit:735:3.10.0.1198;Target=sp|P02817|AMELX_BOVIN 35 49;Gap=M15
+HiC_scaffold_3	protein2genome	match_part	119813025	119813495	980	-	.	ID=HiC_scaffold_3:hsp:3238:3.10.0.1198;Parent=HiC_scaffold_3:hit:735:3.10.0.1198;Target=sp|P02817|AMELX_BOVIN 50 212;Gap=M59 I3 M6 I3 M92
+HiC_scaffold_3	protein2genome	protein_match	119813025	119815257	804	-	.	ID=HiC_scaffold_3:hit:736:3.10.0.1198;Name=sp|Q9Z0K9|AMEL_CAVPO;target_length=226;aligned_coverage=95.58;aligned_identity=72.2
+HiC_scaffold_3	protein2genome	match_part	119815183	119815257	804	-	.	ID=HiC_scaffold_3:hsp:3239:3.10.0.1198;Parent=HiC_scaffold_3:hit:736:3.10.0.1198;Target=sp|Q9Z0K9|AMEL_CAVPO 10 34;Gap=M25
+HiC_scaffold_3	protein2genome	match_part	119813773	119813859	804	-	.	ID=HiC_scaffold_3:hsp:3240:3.10.0.1198;Parent=HiC_scaffold_3:hit:736:3.10.0.1198;Target=sp|Q9Z0K9|AMEL_CAVPO 35 63;Gap=M29
+HiC_scaffold_3	protein2genome	match_part	119813025	119813495	804	-	.	ID=HiC_scaffold_3:hsp:3241:3.10.0.1198;Parent=HiC_scaffold_3:hit:736:3.10.0.1198;Target=sp|Q9Z0K9|AMEL_CAVPO 64 225;Gap=M85 I4 M43 I1 M29
+HiC_scaffold_3	protein2genome	protein_match	119813025	119815257	813	-	.	ID=HiC_scaffold_3:hit:738:3.10.0.1198;Name=sp|P45561|AMEL_PIG;target_length=189;aligned_coverage=94.71;aligned_identity=87.4
+HiC_scaffold_3	protein2genome	match_part	119815183	119815257	813	-	.	ID=HiC_scaffold_3:hsp:3246:3.10.0.1198;Parent=HiC_scaffold_3:hit:738:3.10.0.1198;Target=sp|P45561|AMEL_PIG 10 34;Gap=M25
+HiC_scaffold_3	protein2genome	match_part	119813773	119813817	813	-	.	ID=HiC_scaffold_3:hsp:3247:3.10.0.1198;Parent=HiC_scaffold_3:hit:738:3.10.0.1198;Target=sp|P45561|AMEL_PIG 35 49;Gap=M15
+HiC_scaffold_3	protein2genome	match_part	119813226	119813495	813	-	.	ID=HiC_scaffold_3:hsp:3248:3.10.0.1198;Parent=HiC_scaffold_3:hit:738:3.10.0.1198;Target=sp|P45561|AMEL_PIG 50 139;Gap=M90
+HiC_scaffold_3	protein2genome	match_part	119813025	119813180	813	-	.	ID=HiC_scaffold_3:hsp:3249:3.10.0.1198;Parent=HiC_scaffold_3:hit:738:3.10.0.1198;Target=sp|P45561|AMEL_PIG 140 188;Gap=M20 D3 M29
+HiC_scaffold_3	protein2genome	protein_match	119813025	119815257	764	-	.	ID=HiC_scaffold_3:hit:741:3.10.0.1198;Name=sp|Q99218|AMELY_HUMAN;target_length=206;aligned_coverage=95.15;aligned_identity=76.5
+HiC_scaffold_3	protein2genome	match_part	119815183	119815257	764	-	.	ID=HiC_scaffold_3:hsp:3257:3.10.0.1198;Parent=HiC_scaffold_3:hit:741:3.10.0.1198;Target=sp|Q99218|AMELY_HUMAN 10 34;Gap=M25
+HiC_scaffold_3	protein2genome	match_part	119813773	119813859	764	-	.	ID=HiC_scaffold_3:hsp:3258:3.10.0.1198;Parent=HiC_scaffold_3:hit:741:3.10.0.1198;Target=sp|Q99218|AMELY_HUMAN 35 63;Gap=M29
+HiC_scaffold_3	protein2genome	match_part	119813226	119813495	764	-	.	ID=HiC_scaffold_3:hsp:3259:3.10.0.1198;Parent=HiC_scaffold_3:hit:741:3.10.0.1198;Target=sp|Q99218|AMELY_HUMAN 64 153;Gap=M90
+HiC_scaffold_3	protein2genome	match_part	119813025	119813180	764	-	.	ID=HiC_scaffold_3:hsp:3260:3.10.0.1198;Parent=HiC_scaffold_3:hit:741:3.10.0.1198;Target=sp|Q99218|AMELY_HUMAN 154 205;Gap=M52
+HiC_scaffold_3	protein2genome	protein_match	119813025	119815257	868	-	.	ID=HiC_scaffold_3:hit:742:3.10.0.1198;Name=sp|Q99004|AMELY_BOVIN;target_length=192;aligned_coverage=94.79;aligned_identity=89.6
+HiC_scaffold_3	protein2genome	match_part	119815183	119815257	868	-	.	ID=HiC_scaffold_3:hsp:3261:3.10.0.1198;Parent=HiC_scaffold_3:hit:742:3.10.0.1198;Target=sp|Q99004|AMELY_BOVIN 10 34;Gap=M25
+HiC_scaffold_3	protein2genome	match_part	119813773	119813817	868	-	.	ID=HiC_scaffold_3:hsp:3262:3.10.0.1198;Parent=HiC_scaffold_3:hit:742:3.10.0.1198;Target=sp|Q99004|AMELY_BOVIN 35 49;Gap=M15
+HiC_scaffold_3	protein2genome	match_part	119813226	119813495	868	-	.	ID=HiC_scaffold_3:hsp:3263:3.10.0.1198;Parent=HiC_scaffold_3:hit:742:3.10.0.1198;Target=sp|Q99004|AMELY_BOVIN 50 139;Gap=M90
+HiC_scaffold_3	protein2genome	match_part	119813025	119813180	868	-	.	ID=HiC_scaffold_3:hsp:3264:3.10.0.1198;Parent=HiC_scaffold_3:hit:742:3.10.0.1198;Target=sp|Q99004|AMELY_BOVIN 140 191;Gap=M52
+HiC_scaffold_3	protein2genome	protein_match	119813025	119815257	825	-	.	ID=HiC_scaffold_3:hit:743:3.10.0.1198;Name=sp|Q99217|AMELX_HUMAN;target_length=191;aligned_coverage=94.76;aligned_identity=85.7
+HiC_scaffold_3	protein2genome	match_part	119815183	119815257	825	-	.	ID=HiC_scaffold_3:hsp:3265:3.10.0.1198;Parent=HiC_scaffold_3:hit:743:3.10.0.1198;Target=sp|Q99217|AMELX_HUMAN 10 34;Gap=M25
+HiC_scaffold_3	protein2genome	match_part	119813773	119813817	825	-	.	ID=HiC_scaffold_3:hsp:3266:3.10.0.1198;Parent=HiC_scaffold_3:hit:743:3.10.0.1198;Target=sp|Q99217|AMELX_HUMAN 35 48;Gap=M4 D1 M10
+HiC_scaffold_3	protein2genome	match_part	119813226	119813495	825	-	.	ID=HiC_scaffold_3:hsp:3267:3.10.0.1198;Parent=HiC_scaffold_3:hit:743:3.10.0.1198;Target=sp|Q99217|AMELX_HUMAN 49 138;Gap=M90
+HiC_scaffold_3	protein2genome	match_part	119813025	119813180	825	-	.	ID=HiC_scaffold_3:hsp:3268:3.10.0.1198;Parent=HiC_scaffold_3:hit:743:3.10.0.1198;Target=sp|Q99217|AMELX_HUMAN 139 190;Gap=M52
+HiC_scaffold_3	protein2genome	protein_match	119813049	119813459	488	-	.	ID=HiC_scaffold_3:hit:744:3.10.0.1198;Name=sp|O97646|AMEL_ORNAN;target_length=121;aligned_coverage=100;aligned_identity=76.2
+HiC_scaffold_3	protein2genome	match_part	119813226	119813459	488	-	.	ID=HiC_scaffold_3:hsp:3269:3.10.0.1198;Parent=HiC_scaffold_3:hit:744:3.10.0.1198;Target=sp|O97646|AMEL_ORNAN 1 78;Gap=M78
+HiC_scaffold_3	protein2genome	match_part	119813049	119813180	488	-	.	ID=HiC_scaffold_3:hsp:3270:3.10.0.1198;Parent=HiC_scaffold_3:hit:744:3.10.0.1198;Target=sp|O97646|AMEL_ORNAN 79 121;Gap=M29 D1 M14
+HiC_scaffold_3	protein2genome	protein_match	119813064	119815230	713	-	.	ID=HiC_scaffold_3:hit:745:3.10.0.1198;Name=sp|Q28462|AMEL_MONDO;target_length=202;aligned_coverage=87.13;aligned_identity=70.5
+HiC_scaffold_3	protein2genome	match_part	119815183	119815230	713	-	.	ID=HiC_scaffold_3:hsp:3271:3.10.0.1198;Parent=HiC_scaffold_3:hit:745:3.10.0.1198;Target=sp|Q28462|AMEL_MONDO 3 18;Gap=M16
+HiC_scaffold_3	protein2genome	match_part	119813773	119813817	713	-	.	ID=HiC_scaffold_3:hsp:3272:3.10.0.1198;Parent=HiC_scaffold_3:hit:745:3.10.0.1198;Target=sp|Q28462|AMEL_MONDO 19 33;Gap=M15
+HiC_scaffold_3	protein2genome	match_part	119813064	119813495	713	-	.	ID=HiC_scaffold_3:hsp:3273:3.10.0.1198;Parent=HiC_scaffold_3:hit:745:3.10.0.1198;Target=sp|Q28462|AMEL_MONDO 34 178;Gap=M62 I1 M82
+HiC_scaffold_22	blastx	protein_match	20461670	20461972	303	+	.	ID=HiC_scaffold_22:hit:61775:3.10.0.204;Name=sp|P02817|AMELX_BOVIN;target_length=213
+HiC_scaffold_22	blastx	match_part	20461670	20461972	303	+	.	ID=HiC_scaffold_22:hsp:102818:3.10.0.204;Parent=HiC_scaffold_22:hit:61775:3.10.0.204;Target=sp|P02817|AMELX_BOVIN 31 133;Gap=M7 I1 M46 I1 M48
+HiC_scaffold_22	blastx	protein_match	20461670	20461933	256	+	.	ID=HiC_scaffold_22:hit:61776:3.10.0.204;Name=sp|Q99004|AMELY_BOVIN;target_length=192
+HiC_scaffold_22	blastx	match_part	20461670	20461933	256	+	.	ID=HiC_scaffold_22:hsp:102819:3.10.0.204;Parent=HiC_scaffold_22:hit:61776:3.10.0.204;Target=sp|Q99004|AMELY_BOVIN 31 120;Gap=M7 I1 M48 I1 M33
+HiC_scaffold_22	blastx	protein_match	20461670	20461933	150	+	.	ID=HiC_scaffold_22:hit:61777:3.10.0.204;Name=sp|Q28462|AMEL_MONDO;target_length=202
+HiC_scaffold_22	blastx	match_part	20461670	20461933	150	+	.	ID=HiC_scaffold_22:hsp:102820:3.10.0.204;Parent=HiC_scaffold_22:hit:61777:3.10.0.204;Target=sp|Q28462|AMEL_MONDO 15 104;Gap=M7 I1 M44 I1 M37
+HiC_scaffold_22	blastx	protein_match	20461670	20461933	261	+	.	ID=HiC_scaffold_22:hit:61781:3.10.0.204;Name=sp|P45561|AMEL_PIG;target_length=189
+HiC_scaffold_22	blastx	match_part	20461670	20461933	261	+	.	ID=HiC_scaffold_22:hsp:102824:3.10.0.204;Parent=HiC_scaffold_22:hit:61781:3.10.0.204;Target=sp|P45561|AMEL_PIG 31 120;Gap=M7 I1 M46 I1 M35
+HiC_scaffold_22	blastx	protein_match	20461670	20461933	238	+	.	ID=HiC_scaffold_22:hit:61782:3.10.0.204;Name=sp|Q99217|AMELX_HUMAN;target_length=191
+HiC_scaffold_22	blastx	match_part	20461670	20461933	238	+	.	ID=HiC_scaffold_22:hsp:102825:3.10.0.204;Parent=HiC_scaffold_22:hit:61782:3.10.0.204;Target=sp|Q99217|AMELX_HUMAN 31 119;Gap=M53 I1 M35
+HiC_scaffold_22	blastx	protein_match	20461703	20462141	238	+	.	ID=HiC_scaffold_22:hit:61783:3.10.0.204;Name=sp|P63278|AMELX_RAT;target_length=210
+HiC_scaffold_22	blastx	match_part	20461703	20461933	238	+	.	ID=HiC_scaffold_22:hsp:102826:3.10.0.204;Parent=HiC_scaffold_22:hit:61783:3.10.0.204;Target=sp|P63278|AMELX_RAT 57 134;Gap=M40 I1 M37
+HiC_scaffold_22	blastx	match_part	20462052	20462141	115	+	.	ID=HiC_scaffold_22:hsp:102827:3.10.0.204;Parent=HiC_scaffold_22:hit:61783:3.10.0.204;Target=sp|P63278|AMELX_RAT 181 210;Gap=M30
+HiC_scaffold_22	blastx	protein_match	20461703	20461933	208	+	.	ID=HiC_scaffold_22:hit:61784:3.10.0.204;Name=sp|Q99218|AMELY_HUMAN;target_length=206
+HiC_scaffold_22	blastx	match_part	20461703	20461933	208	+	.	ID=HiC_scaffold_22:hsp:102828:3.10.0.204;Parent=HiC_scaffold_22:hit:61784:3.10.0.204;Target=sp|Q99218|AMELY_HUMAN 57 134;Gap=M42 I1 M35
+HiC_scaffold_22	protein2genome	protein_match	20461635	20462108	400	+	.	ID=HiC_scaffold_22:hit:61794:3.10.0.204;Name=sp|P02817|AMELX_BOVIN;target_length=213;aligned_coverage=75.12;aligned_identity=61.5
+HiC_scaffold_22	protein2genome	match_part	20461635	20462108	400	+	.	ID=HiC_scaffold_22:hsp:102839:3.10.0.204;Parent=HiC_scaffold_22:hit:61794:3.10.0.204;Target=sp|P02817|AMELX_BOVIN 19 178;Gap=M9 F2 M1 R1 M1 R2 M7 R1 M1 R2 M44 R1 M1 R2 M55 F1 M40
+HiC_scaffold_22	protein2genome	protein_match	20461635	20462141	459	+	.	ID=HiC_scaffold_22:hit:61795:3.10.0.204;Name=sp|Q99004|AMELY_BOVIN;target_length=192;aligned_coverage=90.62;aligned_identity=64.6
+HiC_scaffold_22	protein2genome	match_part	20461635	20462141	459	+	.	ID=HiC_scaffold_22:hsp:102840:3.10.0.204;Parent=HiC_scaffold_22:hit:61795:3.10.0.204;Target=sp|Q99004|AMELY_BOVIN 19 192;Gap=M9 F2 M1 R1 M1 R2 M7 R1 M1 R2 M48 R1 M1 R2 M51 F1 M6 I1 M4 I2 M41
+HiC_scaffold_22	protein2genome	protein_match	20461635	20462102	304	+	.	ID=HiC_scaffold_22:hit:61796:3.10.0.204;Name=sp|Q28462|AMEL_MONDO;target_length=202;aligned_coverage=78.71;aligned_identity=51.9
+HiC_scaffold_22	protein2genome	match_part	20461635	20462102	304	+	.	ID=HiC_scaffold_22:hsp:102841:3.10.0.204;Parent=HiC_scaffold_22:hit:61796:3.10.0.204;Target=sp|Q28462|AMEL_MONDO 3 161;Gap=M9 F2 M1 R1 M1 R2 M7 R1 M1 R2 M44 R1 M1 R2 M48 R1 M1 R2 M7 F1 M38
+HiC_scaffold_22	protein2genome	protein_match	20461635	20462141	461	+	.	ID=HiC_scaffold_22:hit:61805:3.10.0.204;Name=sp|P45561|AMEL_PIG;target_length=189;aligned_coverage=90.48;aligned_identity=62.8
+HiC_scaffold_22	protein2genome	match_part	20461635	20462141	461	+	.	ID=HiC_scaffold_22:hsp:102851:3.10.0.204;Parent=HiC_scaffold_22:hit:61805:3.10.0.204;Target=sp|P45561|AMEL_PIG 19 189;Gap=M9 F2 M1 R1 M1 R2 M7 R1 M1 R2 M44 R1 M1 R2 M55 F1 M51
+HiC_scaffold_22	protein2genome	protein_match	20461635	20462141	445	+	.	ID=HiC_scaffold_22:hit:61806:3.10.0.204;Name=sp|Q99217|AMELX_HUMAN;target_length=191;aligned_coverage=90.58;aligned_identity=62.1
+HiC_scaffold_22	protein2genome	match_part	20461635	20462141	445	+	.	ID=HiC_scaffold_22:hsp:102852:3.10.0.204;Parent=HiC_scaffold_22:hit:61806:3.10.0.204;Target=sp|Q99217|AMELX_HUMAN 19 191;Gap=M9 F2 M1 R1 M1 R2 M51 R1 M1 R2 M55 F1 M6 I1 M4 I2 M41
+HiC_scaffold_22	protein2genome	protein_match	20461703	20462141	397	+	.	ID=HiC_scaffold_22:hit:61810:3.10.0.204;Name=sp|P63278|AMELX_RAT;target_length=210;aligned_coverage=73.33;aligned_identity=62.9
+HiC_scaffold_22	protein2genome	match_part	20461703	20462141	397	+	.	ID=HiC_scaffold_22:hsp:102857:3.10.0.204;Parent=HiC_scaffold_22:hit:61810:3.10.0.204;Target=sp|P63278|AMELX_RAT 57 210;Gap=M40 I1 M37 I4 M18 F1 M6 R2 M1 R1 M3 R2 M1 I1 R1 M42
+HiC_scaffold_22	protein2genome	protein_match	20461703	20462141	383	+	.	ID=HiC_scaffold_22:hit:61811:3.10.0.204;Name=sp|Q99218|AMELY_HUMAN;target_length=206;aligned_coverage=72.82;aligned_identity=60.5
+HiC_scaffold_22	protein2genome	match_part	20461703	20462141	383	+	.	ID=HiC_scaffold_22:hsp:102858:3.10.0.204;Parent=HiC_scaffold_22:hit:61811:3.10.0.204;Target=sp|Q99218|AMELY_HUMAN 57 206;Gap=M40 I1 M57 I2 M12 I1 M1 F1 M36

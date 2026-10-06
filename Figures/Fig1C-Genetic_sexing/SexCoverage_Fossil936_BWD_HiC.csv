@@ -1,0 +1,11 @@
+SampleID,Ref_Mapping,Input_reads,Reads_bam,Bootstrap,Autosomes,X_chr,Cov_autosomes,Cov_Xchr,Ratio,ProposedSex
+Fossil936,BWD_HiC-Human,"a9361_HiSeq,a9362_HiSeq","2,450,554",1,"HiC_scaffold_1,2,4-29",HiC_scaffold_3,0.0424371,0.0225375,0.53108,M
+Fossil936,BWD_HiC-Human,"a9361_HiSeq,a9362_HiSeq","2,450,554",2,"HiC_scaffold_1,2,4-29",HiC_scaffold_3,0.0423145,0.0226492,0.535259,M
+Fossil936,BWD_HiC-Human,"a9361_HiSeq,a9362_HiSeq","2,450,554",3,"HiC_scaffold_1,2,4-29",HiC_scaffold_3,0.0422243,0.0225638,0.534379,M
+Fossil936,BWD_HiC-Human,"a9361_HiSeq,a9362_HiSeq","2,450,554",4,"HiC_scaffold_1,2,4-29",HiC_scaffold_3,0.042536,0.022613,0.53162,M
+Fossil936,BWD_HiC-Human,"a9361_HiSeq,a9362_HiSeq","2,450,554",5,"HiC_scaffold_1,2,4-29",HiC_scaffold_3,0.0422129,0.0226748,0.537153,M
+Fossil936,BWD_HiC-Human,"a9361_HiSeq,a9362_HiSeq","2,450,554",6,"HiC_scaffold_1,2,4-29",HiC_scaffold_3,0.0420575,0.0226005,0.537371,M
+Fossil936,BWD_HiC-Human,"a9361_HiSeq,a9362_HiSeq","2,450,554",7,"HiC_scaffold_1,2,4-29",HiC_scaffold_3,0.0423688,0.0226036,0.533496,M
+Fossil936,BWD_HiC-Human,"a9361_HiSeq,a9362_HiSeq","2,450,554",8,"HiC_scaffold_1,2,4-29",HiC_scaffold_3,0.042102,0.0226493,0.537963,M
+Fossil936,BWD_HiC-Human,"a9361_HiSeq,a9362_HiSeq","2,450,554",9,"HiC_scaffold_1,2,4-29",HiC_scaffold_3,0.0422863,0.0226476,0.535578,M
+Fossil936,BWD_HiC-Human,"a9361_HiSeq,a9362_HiSeq","2,450,554",10,"HiC_scaffold_1,2,4-29",HiC_scaffold_3,0.0422051,0.0226008,0.535499,M
