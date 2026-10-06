@@ -8,4 +8,4 @@ Based on the results of the heterozygosity testing done in `4.1-Het_tests_277`, 
 See folder `Liu2024_het` for per-sample commands.
 The scripts are submitted as slurm array jobs by `angsd_het_Liu2024_BWD_HiC.batch.slurm`.
 
-Of note `-setMinDepth` and `-setMaxDepth` were individually set for each sample based on the median and standard deviation of its coverage, as calculated by Picard’s CollectWgsMetrics in the mapping script ([2.2-Modern_samples_mapping/MapWGS_nuclear_Liu2024_wildebeest.sh](https://github.com/DeondeJager/Fincha-Habera-Ancient-Wildebeest/tree/main/Analyses/2-Mapping/2.2-Modern_samples_mapping) and table S6).
+Of note `-setMinDepth` and `-setMaxDepth` were individually set for each sample based on the median and standard deviation of its coverage, as calculated by Picard’s CollectWgsMetrics in the mapping script ([2.2-Modern_samples_mapping/MapWGS_nuclear_Liu2024_wildebeest.sh](https://github.com/DeondeJager/Fincha-Habera-Ancient-Wildebeest/blob/main/Analyses/2-Mapping/2.2-Modern_samples_mapping/MapWGS_nuclear_Liu2024_wildebeest.sh), and see table S6 for these values).
