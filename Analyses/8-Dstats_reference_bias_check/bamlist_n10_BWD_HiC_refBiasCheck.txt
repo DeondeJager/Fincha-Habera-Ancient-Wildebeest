@@ -1,0 +1,10 @@
+/projects/lorenzen/people/pzx702/wildebeest/paleomix/competitive_mapping/SRR27955277/BWD_HiC/mapDamage/SRR27955277_trim_Mut.BWD_HiC-Human.rescaled.rm.noX.bam
+/projects/lorenzen/people/pzx702/wildebeest/bams/SRR27955277_BWD_HiC-Human.MD.MQ30.rm.noX.bam
+/projects/lorenzen/people/pzx702/wildebeest/bams/SRR27955210_BWD_HiC-Human.MD.MQ30.rm.noX.bam
+/projects/lorenzen/people/pzx702/wildebeest/bams/SRR27955211_BWD_HiC-Human.MD.MQ30.rm.noX.bam
+/projects/lorenzen/people/pzx702/wildebeest/bams/SRR27955222_BWD_HiC-Human.MD.MQ30.rm.noX.bam
+/projects/lorenzen/people/pzx702/wildebeest/bams/SRR27955228_BWD_HiC-Human.MD.MQ30.rm.noX.bam
+/projects/lorenzen/people/pzx702/wildebeest/bams/SRR27955239_BWD_HiC-Human.MD.MQ30.rm.noX.bam
+/projects/lorenzen/people/pzx702/wildebeest/bams/SRR27955244_BWD_HiC-Human.MD.MQ30.rm.noX.bam
+/projects/lorenzen/people/pzx702/wildebeest/bams/SRR27955347_BWD_HiC-Human.MD.MQ30.rm.noX.bam
+/projects/lorenzen/people/pzx702/wildebeest/bams/SRR27955304_BWD_HiC-Human.MD.MQ30.rm.noX.bam
