@@ -17,4 +17,4 @@ Perform a formal statistical test of heterozygosiy across the entire genome for 
 - `angsd_het_SRR27955277_3X_BWD_HiC.slurm` = `277_3X`
 - `angsd_het_SRR27955277_trim_Mut_BWD_HiC.slurm` = `277_damaged`
 
-The output produced from these test were collated and plotted in R as fig. S7, which is where the Wilcoxon signed-rank test for a difference in means was also performed (see Figures](https://github.com/DeondeJager/Fincha-Habera-Ancient-Wildebeest/tree/main/Figures))
+The output produced from these test were collated and plotted in R as fig. S7, which is where the Wilcoxon signed-rank test for a difference in means was also performed (see [Figures](https://github.com/DeondeJager/Fincha-Habera-Ancient-Wildebeest/tree/main/Figures))
