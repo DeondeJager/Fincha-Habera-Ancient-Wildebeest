@@ -1,0 +1,82 @@
+SRR,SampleName,Species,Ecotype,Subspecies,Subspecies_common,qpBrute_subspecies_group,Country,Locality,Latitude,Longitude,HomogenousPop,Colour_Subspecies,Colour_Species
+Fossil936,Fossil936,Connochaetes sp 936,Bale_wildebeest,,Bale wildebeest,Bale_wildebeest,Ethiopia,Ethiopia_Fincha Habera,7.015,39.72,Y,#f2933b,#f2933b
+SRR27955210,CGnoNaC__953,Connochaetes gnou,Black,,Black,Black,Namibia,Namibia_Ovita Ranch,-21.5710925,16.5642843,Y,#5c5c5c,#5c5c5c
+SRR27955211,CTauTzN_4498,Connochaetes taurinus,E_Monduli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Tanzania,Tanzania_Burko,-3.31667,36.21667,Y,#8dc5a6,#6699cc
+SRR27955212,CTauTzN_4279,Connochaetes taurinus,E_Monduli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Tanzania,Tanzania_Burko,-3.31667,36.21667,Y,#8dc5a6,#6699cc
+SRR27955214,CTauTzN_4276,Connochaetes taurinus,E_Monduli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Tanzania,Tanzania_Burko,-3.31667,36.21667,Y,#8dc5a6,#6699cc
+SRR27955215,CTauTzN_4275,Connochaetes taurinus,E_Monduli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Tanzania,Tanzania_Burko,-3.31667,36.21667,Y,#8dc5a6,#6699cc
+SRR27955216,CTauTzN_3172,Connochaetes taurinus,E_Monduli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Tanzania,Tanzania_Burko,-3.31667,36.21667,Y,#8dc5a6,#6699cc
+SRR27955218,CTauTzN_2199,Connochaetes taurinus,E_Monduli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Tanzania,Tanzania_Burko,-3.31667,36.21667,Y,#8dc5a6,#6699cc
+SRR27955219,CTauTzN_2165,Connochaetes taurinus,E_Monduli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Tanzania,Tanzania_Burko,-3.31667,36.21667,Y,#8dc5a6,#6699cc
+SRR27955222,CTauNaN_2506,Connochaetes taurinus,B_Etosha,C. t. taurinus,Brindled,Brindled,Namibia,Namibia_Etos. (Halali),-19.0378189,16.4714668,Y,#8585c4,#6699cc
+SRR27955223,CTauNaN_2503,Connochaetes taurinus,B_Etosha,C. t. taurinus,Brindled,Brindled,Namibia,Namibia_Etos. (Halali),-19.0378189,16.4714668,Y,#8585c4,#6699cc
+SRR27955224,CTauNaN_2500,Connochaetes taurinus,B_Etosha,C. t. taurinus,Brindled,Brindled,Namibia,Namibia_Etos. (Halali),-19.0378189,16.4714668,Y,#8585c4,#6699cc
+SRR27955225,CTauNaN_2496,Connochaetes taurinus,B_Etosha,C. t. taurinus,Brindled,Brindled,Namibia,Namibia_Etos. (Halali),-19.0378189,16.4714668,Y,#8585c4,#6699cc
+SRR27955227,CTauNaN_2489,Connochaetes taurinus,B_Etosha,C. t. taurinus,Brindled,Brindled,Namibia,Namibia_Etos. (Halali),-19.0378189,16.4714668,Y,#8585c4,#6699cc
+SRR27955228,CTauKeS__718,Connochaetes taurinus,E_Nairobi,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Nairobi,-1.2864,36.8172,Y,#8dc5a6,#6699cc
+SRR27955229,CTauKeS__717,Connochaetes taurinus,E_Nairobi,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Nairobi,-1.2864,36.8172,Y,#8dc5a6,#6699cc
+SRR27955230,CTauKeS__716,Connochaetes taurinus,E_Nairobi,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Nairobi,-1.2864,36.8172,Y,#8dc5a6,#6699cc
+SRR27955231,CTauKeS__715,Connochaetes taurinus,E_Nairobi,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Nairobi,-1.2864,36.8172,Y,#8dc5a6,#6699cc
+SRR27955233,CTauKeS__714,Connochaetes taurinus,E_Nairobi,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Nairobi,-1.2864,36.8172,Y,#8dc5a6,#6699cc
+SRR27955234,CTauKeS__713,Connochaetes taurinus,E_Nairobi,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Nairobi,-1.2864,36.8172,Y,#8dc5a6,#6699cc
+SRR27955235,CTauKeS__712,Connochaetes taurinus,E_Nairobi,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Nairobi,-1.2864,36.8172,Y,#8dc5a6,#6699cc
+SRR27955236,CTauKeS__711,Connochaetes taurinus,E_Nairobi,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Nairobi,-1.2864,36.8172,Y,#8dc5a6,#6699cc
+SRR27955237,CTauKeS__710,Connochaetes taurinus,E_Nairobi,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Nairobi,-1.2864,36.8172,Y,#8dc5a6,#6699cc
+SRR27955238,CTauKeS__709,Connochaetes taurinus,E_Nairobi,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Nairobi,-1.2864,36.8172,Y,#8dc5a6,#6699cc
+SRR27955239,CTauKeW__649,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Kenya,Kenya_Masai Mara,-1.368468,35.156177,Y,#cace3d,#6699cc
+SRR27955240,CTauKeW__648,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Kenya,Kenya_Masai Mara,-1.368468,35.156177,Y,#cace3d,#6699cc
+SRR27955241,CTauKeW__646,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Kenya,Kenya_Masai Mara,-1.368468,35.156177,Y,#cace3d,#6699cc
+SRR27955244,CTauTzS_8872,Connochaetes taurinus,Nyassa,C. t. johnstoni,Nyassa,Nyassa,Tanzania,Tanzania_Selous LA1,-7.835478,37.7667459,Y,#cc95ff,#6699cc
+SRR27955245,CTauTzS_7107,Connochaetes taurinus,Nyassa,C. t. johnstoni,Nyassa,Nyassa,Tanzania,Tanzania_Selous,-9,37.4,Y,#cc95ff,#6699cc
+SRR27955246,CTauTzS_7106,Connochaetes taurinus,Nyassa,C. t. johnstoni,Nyassa,Nyassa,Tanzania,Tanzania_Selous,-9,37.4,Y,#cc95ff,#6699cc
+SRR27955247,CTauTzS_7105,Connochaetes taurinus,Nyassa,C. t. johnstoni,Nyassa,Nyassa,Tanzania,Tanzania_Selous,-9,37.4,Y,#cc95ff,#6699cc
+SRR27955248,CTauTzS_3711,Connochaetes taurinus,Nyassa,C. t. johnstoni,Nyassa,Nyassa,Tanzania,Tanzania_Selous,-9,37.4,Y,#cc95ff,#6699cc
+SRR27955250,CTauTzN_3174,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Maswa (Kimali),-3.3884644,34.4579084,Y,#cace3d,#6699cc
+SRR27955251,CTauTzN_8871,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Maswa,-3.150139789,33.70468568,Y,#cace3d,#6699cc
+SRR27955252,CGnoNaC__954,Connochaetes gnou,Black,,Black,Black,Namibia,Namibia_Ovita Ranch,-21.5710925,16.5642843,Y,#5c5c5c,#5c5c5c
+SRR27955253,CTauTzN_8870,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Maswa,-3.150139789,33.70468568,Y,#cace3d,#6699cc
+SRR27955254,CTauTzN_8202,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Maswa,-3.150139789,33.70468568,Y,#cace3d,#6699cc
+SRR27955255,CTauTzN_5188,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Maswa,-3.150139789,33.70468568,Y,#cace3d,#6699cc
+SRR27955256,CTauTzN_4497,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Maswa,-3.150139789,33.70468568,Y,#cace3d,#6699cc
+SRR27955257,CTauTzN_4496,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Maswa,-3.150139789,33.70468568,Y,#cace3d,#6699cc
+SRR27955258,CTauTzN_4285,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Maswa,-3.150139789,33.70468568,Y,#cace3d,#6699cc
+SRR27955259,CTauTzN_4284,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Maswa,-3.150139789,33.70468568,Y,#cace3d,#6699cc
+SRR27955260,CTauTzN_4502,Connochaetes taurinus,E_Monduli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Tanzania,Tanzania_Burko,-3.31667,36.21667,Y,#8dc5a6,#6699cc
+SRR27955261,CTauTzN_4501,Connochaetes taurinus,E_Monduli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Tanzania,Tanzania_Burko,-3.31667,36.21667,Y,#8dc5a6,#6699cc
+SRR27955262,CTauTzN_4499,Connochaetes taurinus,E_Monduli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Tanzania,Tanzania_Burko,-3.31667,36.21667,Y,#8dc5a6,#6699cc
+SRR27955263,CTauKeW__645,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Kenya,Kenya_Masai Mara,-1.368468,35.156177,Y,#cace3d,#6699cc
+SRR27955264,CGnoNaC_2633,Connochaetes gnou,Black,,Black,Black,Namibia,Namibia_Ovita Farm,-21.5710925,16.5642843,Y,#5c5c5c,#5c5c5c
+SRR27955265,CTauKeW__644,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Kenya,Kenya_Masai Mara,-1.368468,35.156177,Y,#cace3d,#6699cc
+SRR27955266,CTauKeW__643,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Kenya,Kenya_Masai Mara,-1.368468,35.156177,Y,#cace3d,#6699cc
+SRR27955267,CTauKeW__642,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Kenya,Kenya_Masai Mara,-1.368468,35.156177,Y,#cace3d,#6699cc
+SRR27955268,CTauKeW__641,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Kenya,Kenya_Masai Mara,-1.368468,35.156177,Y,#cace3d,#6699cc
+SRR27955269,CTauKeW__640,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Kenya,Kenya_Masai Mara,-1.368468,35.156177,Y,#cace3d,#6699cc
+SRR27955270,CTauKeW__638,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Kenya,Kenya_Masai Mara,-1.368468,35.156177,Y,#cace3d,#6699cc
+SRR27955271,CTauKeS__707,Connochaetes taurinus,E_Amboseli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Amboseli,-2.633333,37.233333,Y,#8dc5a6,#6699cc
+SRR27955272,CTauKeS__706,Connochaetes taurinus,E_Amboseli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Amboseli,-2.633333,37.233333,Y,#8dc5a6,#6699cc
+SRR27955273,CTauKeS__705,Connochaetes taurinus,E_Amboseli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Amboseli,-2.633333,37.233333,Y,#8dc5a6,#6699cc
+SRR27955274,CTauKeS__704,Connochaetes taurinus,E_Amboseli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Amboseli,-2.633333,37.233333,Y,#8dc5a6,#6699cc
+SRR27955275,CGnoNaC_2632,Connochaetes gnou,Black,,Black,Black,Namibia,Namibia_Ovita Farm,-21.5710925,16.5642843,Y,#5c5c5c,#5c5c5c
+SRR27955276,CTauKeS__702,Connochaetes taurinus,E_Amboseli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Amboseli,-2.633333,37.233333,Y,#8dc5a6,#6699cc
+SRR27955277,CTauKeS__701,Connochaetes taurinus,E_Amboseli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Amboseli,-2.633333,37.233333,Y,#8dc5a6,#6699cc
+SRR27955277_trim_Mut,CTauKeS__701,Connochaetes taurinus,E_Amboseli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Amboseli,-2.633333,37.233333,Y,#8dc5a6,#6699cc
+SRR27955278,CTauKeS__700,Connochaetes taurinus,E_Amboseli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Amboseli,-2.633333,37.233333,Y,#8dc5a6,#6699cc
+SRR27955279,CTauKeS__699,Connochaetes taurinus,E_Amboseli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Amboseli,-2.633333,37.233333,Y,#8dc5a6,#6699cc
+SRR27955280,CTauKeS__698,Connochaetes taurinus,E_Amboseli,C. t. albojubatus,Eastern white-bearded,Eastern_wb,Kenya,Kenya_Amboseli,-2.633333,37.233333,Y,#8dc5a6,#6699cc
+SRR27955286,CGnoNaC_2630,Connochaetes gnou,Black,,Black,Black,Namibia,Namibia_Ovita Farm,-21.5710925,16.5642843,Y,#5c5c5c,#5c5c5c
+SRR27955314,CTauTzN__751,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Loliondo,-2.05,35.616667,Y,#cace3d,#6699cc
+SRR27955315,CTauTzN__750,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Loliondo,-2.05,35.616667,Y,#cace3d,#6699cc
+SRR27955318,CTauTzN__747,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Loliondo,-2.05,35.616667,Y,#cace3d,#6699cc
+SRR27955319,CGnoNaC_1356,Connochaetes gnou,Black,,Black,Black,Namibia,Namibia_Ovita Ranch,-21.5710925,16.5642843,Y,#5c5c5c,#5c5c5c
+SRR27955320,CTauTzN__746,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Loliondo,-2.05,35.616667,Y,#cace3d,#6699cc
+SRR27955322,CTauTzN__744,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Loliondo,-2.05,35.616667,Y,#cace3d,#6699cc
+SRR27955324,CTauTzN__742,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Loliondo,-2.05,35.616667,Y,#cace3d,#6699cc
+SRR27955325,CTauTzN__741,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Loliondo,-2.05,35.616667,Y,#cace3d,#6699cc
+SRR27955326,CTauTzN__740,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Loliondo,-2.05,35.616667,Y,#cace3d,#6699cc
+SRR27955327,CTauTzN__738,Connochaetes taurinus,W_Serengeti,C. t. mearnsi,Western white-bearded,Western_wb,Tanzania,Tanzania_Loliondo,-2.05,35.616667,Y,#cace3d,#6699cc
+SRR27955330,CGnoNaC_1329,Connochaetes gnou,Black,,Black,Black,Namibia,Namibia_Ovita Ranch,-21.5710925,16.5642843,Y,#5c5c5c,#5c5c5c
+SRR27955341,CGnoNaC_1324,Connochaetes gnou,Black,,Black,Black,Namibia,Namibia_Ovita Ranch,-21.5710925,16.5642843,Y,#5c5c5c,#5c5c5c
+SRR27955347,CTauZmE_3749,Connochaetes taurinus,Cookson,C. t. cooksoni,Cookson,Cookson,Zambia,Zambia_Luangwa-Lu.Mu.,-12.4952737,32.182376,Y,#ff96ca,#6699cc
+SRR27955348,CTauZmE_2552,Connochaetes taurinus,Cookson,C. t. cooksoni,Cookson,Cookson,Zambia,Zambia_Luangwa N.,-11.916667,32.166667,Y,#ff96ca,#6699cc
+SRR27955349,CTauZmE_2542,Connochaetes taurinus,Cookson,C. t. cooksoni,Cookson,Cookson,Zambia,Zambia_Luangwa N.,-11.916667,32.166667,Y,#ff96ca,#6699cc
+SRR27955352,CGnoNaC__962,Connochaetes gnou,Black,,Black,Black,Namibia,Namibia_Ovita Ranch,-21.5710925,16.5642843,Y,#5c5c5c,#5c5c5c
