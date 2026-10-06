@@ -10,7 +10,9 @@ As a general rule, the `Figures` subfolders do not contain READMEs with addition
 If you use code from this repository in your own work, or feel like it helped you and you feel inspired to say thank you, please cite the manuscript or the Zenodo archive of this repository.
 
 **Manuscript citation** 
-TBD
+
+*TODO*
 
 **Zenodo citation**
-TBD
+
+*TODO*
