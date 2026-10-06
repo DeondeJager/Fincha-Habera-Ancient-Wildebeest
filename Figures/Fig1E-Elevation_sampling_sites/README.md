@@ -1,15 +1,17 @@
-# Get elevation values of GPS/locality points from Digital Elevation Model (DEM) raster file in QGIS:
-# See: https://gis.stackexchange.com/a/344094
+# Get elevation values of GPS points from Digital Elevation Model (DEM) raster file in QGIS:
+See: https://gis.stackexchange.com/a/344094
 
-1. Get a DEM for your region:
-- "You'll need a DEM (Digital Elevation Model) raster, which is a raster of pure elevation data without any labels or additional features."
+## 1. Get a DEM for your region
+- You will need a DEM (Digital Elevation Model) raster, which is a raster of pure elevation data without any labels or additional features.
 - I got DEMs for Africa from the USGS here: https://www.sciencebase.gov/catalog/item/591f6d02e4b0ac16dbdde1c7.
-- There were 19 different DEM files (.tif + .ovr in a zip file) which covered the whole of Africa
-- Import into QGIS using raster import - select only the .tif file, as QGIS will automatically get the info it needs from the .ovr file if it's in the same folder.
+- There were 19 different DEM files (`.tif` + `.ovr` in a zip file) which covered the whole of Africa
+- Import into QGIS using raster import - select only the `.tif` file, as QGIS will automatically get the info it needs from the `.ovr` file if it is in the same folder.
 
-2. Once imported, select the DEMs that overlap with the sampling localities (make sure this layer is also selected).
+## 2. Select relevant DEMs
+- Import yor localities with coordinates into QGIS as a text/csv file.
+- With both the DEMs and localities imported, select the DEMs that overlap with the sampling localities in the left-hand panel (tick the boxes).
 
-3. Extract elevation values for points from DEM rasters
+## 3. Extract elevation values for points from DEM rasters
 - On the toolbar go to "Processing -> Toolbox".
 - Under "Raster analysis" double-click on "Sample raster values".
 - Click "Run as Batch Process". This is because we have 9 different DEMs that overlap with the sampling localities. If the DEM was just one file for the whole of Africa, then we would just run it as a single process.
@@ -19,4 +21,7 @@
 - Under the "Sampled" column, select the output directory (click the three dots to the right), select CSV as the output format and give a name for the output file.
 - In the top-left, click the green plus button and repeat the steps above for the remaining DEM raster layers, making sure to change the output file name each time so that your files don't get overwritten.
 - Click "Run" and you should get a CSV file corresponding to each DEM layer and the localities that overlapped with that DEM should have the elevation value in the Elevation column in the output CSV.
-- Combine these CSV files into one for plotting.
+
+## 4. Manual processing of CSV output
+- Combine these CSV files into one file and add relevant information such as which subspecies occur at each locality.
+- This produced the file `Wildebeest_Localities_metadata_Elevation.csv`, which is used in the `plot_ElevationLocalities_Fig1E.R` for plotting and produces Fig. 1E.
