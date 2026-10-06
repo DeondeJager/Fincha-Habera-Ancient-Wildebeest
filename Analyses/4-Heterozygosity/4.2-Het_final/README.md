@@ -5,7 +5,7 @@ Based on the results of the heterozygosity testing done in `4.1-Het_tests_277`, 
 - `angsd_het_Fossil936_BWD_HiC.slurm`
   - This produces a `.ml` file with three colums and a row for each "window" of 10 million sites specified by `-nSites` in the `realSFS` command.
 
-The proportion of heterozygous sites in each window is then calculated from the `.ml` output file by dividing the second column (heterozygous sites) by the sum of all three columns (where columns one and three represent the sites homozygous for the reference and alternate alleles, respetively).
+The proportion of heterozygous sites in each window is then calculated from the `.ml` output file by dividing the second column (heterozygous sites) by the sum of all three columns (where columns one and three represent the sites homozygous for the reference and alternate alleles, respectively).
 
 ## Contemporary samples
 See folder `Liu2024_het` for per-sample commands.
