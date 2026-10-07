@@ -1,5 +1,5 @@
 # Code for ecological niche models
-Here we provide the code to run the models, but not scripts to prepare the occurrence and climate input files, which are quite large (~30 Gb). 
+Here we provide the code to run the models, but not scripts to prepare the occurrence and climate input files, which are quite large (~3 Gb compressed, ~10 Gb uncompressed). 
 
 These are instead available, with a detailed README as Supplementary Data S4 on Zenodo: https://doi.org/10.5281/zenodo.18865979.
 

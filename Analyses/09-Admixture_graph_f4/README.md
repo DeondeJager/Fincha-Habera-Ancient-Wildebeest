@@ -14,11 +14,17 @@ Find the best-fititng graphs for each number of gene flow events from 0-6, with 
 
 ## 3. Process find_graphs output
 The script `admixtools2_qpGraph_BWD_HiC_signif.R` reads the `winner_*.Rdata` files produced at step 2 and:
+  
   i. Deduplicates the 100 graphs at each admxiture level based on their hash values,
+  
   ii. Ranks the models from best to worst by their score (within admixture levels) and writes the results to `csv` files,
+  
   iii. Plots the ranked models within admixture levels and saves the plots in `pdf` files,
+  
   iv. Computes out-of-sample scores for comparing models within admixture levels and writes the results to `tsv` files,
+  
   v. Calculates worst residuals as another measure by which to evaluate model fit and writes the results to `csv` files,
+  
   vi. Performs bootstrap-resampled graph fits to statistically test whether different models within each winner group are significantly different or not and plots the p-values as a square matrix heatmap in a `pdf` file.
 
 The script is submitted as a slurm cluster job with `n82_fossil_BWD_HiC_admixtools2_subspecies_signif.slurm`.
