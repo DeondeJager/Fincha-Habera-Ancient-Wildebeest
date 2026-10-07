@@ -6,7 +6,7 @@
 library(convenience)
 
 ## Set working directory
-#setwd("")
+setwd("./")
 
 ## Check convergence
 ### Note: Only using log files (excl. tree files), as convenience has trouble with the coupledMCMC (MC3) tree files
