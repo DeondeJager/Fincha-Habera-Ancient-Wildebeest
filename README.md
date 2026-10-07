@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1166631596.svg)](https://doi.org/10.5281/zenodo.23208438)
+
 # Fincha-Habera-Ancient-Wildebeest
 Code for the analyses and figures of the paper on the ancient wildebeest genome (Fossil936) from Fincha Habera, entitled **42,000-year old bovid tooth from high-elevation Ethiopia reveals lost African megafauna diversity**.
 
