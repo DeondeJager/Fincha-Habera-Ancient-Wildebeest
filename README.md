@@ -17,4 +17,7 @@ If you use code from this repository in your own work, or feel like it helped yo
 
 **Zenodo citation**
 
-*TODO*
+Cite this repository as follows:
+
+Deon de Jager. (2026). DeondeJager/Fincha-Habera-Ancient-Wildebeest: v1.0.1 (Version v1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23208439
+
