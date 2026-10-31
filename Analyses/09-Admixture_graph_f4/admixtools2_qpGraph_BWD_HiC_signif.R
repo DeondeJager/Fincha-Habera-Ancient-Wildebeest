@@ -1,5 +1,4 @@
 # Get scores and do tests of graphs after running find_graphs with ADMIXTOOLS2
-## Got help from ChatGPT with this code
 ## Tutorial: https://uqrmaie1.github.io/admixtools/articles/admixtools.html
 ## find_graphs parameters are from: Maier, R. et al. (2023). On the limits of fitting complex models of population history to f-statistics. eLife, 12, e85492. https://doi.org/10.7554/eLife.85492 
 
